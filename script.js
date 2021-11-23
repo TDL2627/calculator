@@ -6,6 +6,7 @@ function addToSum(operator){
 }
 
 function evaluateSum(){
+    
 document.getElementById("output").innerText=eval(sum);
 }
 

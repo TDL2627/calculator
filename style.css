@@ -29,7 +29,7 @@ h1{
     overflow-y:hidden ;
     overflow-x: hidden;
     text-align: right;
-   
+    font-size: 25px;
 }
 .numbut{
     border-radius: 25%;
